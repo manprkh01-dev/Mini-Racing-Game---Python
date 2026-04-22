@@ -14,7 +14,7 @@ A fast racing game built in Python where you race small cars on tracks. Avoid ob
 🔢 3-2-1-GO! animated countdown before each race
 🔁 Instant restart and replayable rounds
 
-
+Developed by Manav Parikh
 🚀 Installation & Setup
 Requirements
 
