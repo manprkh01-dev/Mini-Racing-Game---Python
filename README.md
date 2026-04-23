@@ -1,6 +1,7 @@
 # Mini-Racing-Game---Python
 A fast racing game built in Python where you race small cars on tracks. Avoid obstacles, and try to finish first. Easy controls, quick rounds, and increasing difficulty make it fun and replayable.
 
+This 
 ✨ Features
 
 🏁 Top-down arcade racing with smooth movement physics
